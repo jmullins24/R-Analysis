@@ -1,4 +1,4 @@
-<h1>R Analysis</h1>
+<h1>Calculating Treatment Effect of Political Canvassing</h1>
 
 <h2>Description</h2>
 Assignment consisted of analyzing the dataset collected by political canvasing and testing the change in tolerance levels of transgender individuals based on having a short conversation with one versus receiving a control conversation about recycling. Analysis shows the treatment effect varies significantly across political and racial demographics.
